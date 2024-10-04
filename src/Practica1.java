@@ -5,7 +5,5 @@ public class Practica1 {
         System.out.println("ZABALA");
         System.out.println("0962909642");
         System.out.println("2004");
-
-
     }
 }
